@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-jpi8zd.toprimonim.co.il/sitemap.xml
